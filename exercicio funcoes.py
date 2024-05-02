@@ -45,7 +45,7 @@ montar()
 print("FIM DA SEGUNDA QUESTÃO")
 
 
-#2. questão TENTATIVA DE AUTOMATIZAR MAS N SEI SE FICOU BOM (erro se colocar 64x64)
+#2. questão TENTATIVA DE AUTOMATIZAR MAS N SEI SE FICOU BOM (bug se colocar 64x64)
 
 coluna = ""
 quantidadeLinhas = int(input("QUANTIDADE DE LINHAS?"))
