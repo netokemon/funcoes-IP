@@ -1,5 +1,5 @@
 # Exercícios de Funções no Python
 
-Olá! esse é meu projeto contendo funções do primeiro exercício de IP.
+Olá! esse é meu projeto contendo funções do primeiro exercício de IP (Introdução a Programação).
 
 ## ☺
