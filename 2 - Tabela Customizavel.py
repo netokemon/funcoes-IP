@@ -34,7 +34,7 @@ def linha(quantidadeColunas):
         print("|         " * quantidadeColunas + "|")
 
 def montar():
-    for x in range(quantidadeLinhas):
+    for x in range(max(quantidadeLinhas, quantidadeColunas)):
         borda(quantidadeColunas)
         linha(quantidadeColunas)
         #borda(quantidadeColunas)
