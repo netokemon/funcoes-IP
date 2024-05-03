@@ -3,10 +3,8 @@
 num1 = int(input())
 num2 = int(input())
 
-x = num1
-y = num2
-
-num1 = num2
-num2 = x
+num1 += num2
+num2 = num1 - num2
+num1 -= num2
 
 print(num1, num2)
